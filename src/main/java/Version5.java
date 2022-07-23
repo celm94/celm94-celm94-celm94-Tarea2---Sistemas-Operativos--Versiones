@@ -1,0 +1,2 @@
+public class Version5 {
+}
